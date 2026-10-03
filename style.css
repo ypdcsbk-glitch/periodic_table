@@ -1,0 +1,43 @@
+ table {
+            margin: 20px auto;
+            width: 1200 px;
+            text-align: center;
+            border-collapse: collapse;
+        }
+        td{
+            border: 1px solid black;
+            padding:  10px;
+        }
+        h1 {
+            text-align: center;
+        }
+.element {
+        background-color: rgb(253, 162, 83);
+        }
+        .element-2 {
+            background-color: rgb(233, 146, 233);
+        }
+        .element-3 {
+            background-color: rgba(48, 184, 221, 0.9);
+        }
+        .element-4 {
+            background-color: rgb(221, 234, 235);
+        }
+        .element-5 {
+            background-color: rgb(205, 137, 35);
+        }
+        .element-6 {
+            background-color: rgb(225, 225, 153);
+        }
+        .element-7 {
+            background-color: rgb(188, 230, 73);
+        }
+        .element-8 {
+            background-color: rgb(235, 218, 72);
+        }
+        .element-9 {
+            background-color: rgb(249, 217, 223);
+        }
+        .element-10 {
+            background-color: white;
+        }
